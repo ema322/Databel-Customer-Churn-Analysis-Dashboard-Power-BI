@@ -5,7 +5,12 @@
 This project analyzes customer churn for Databel using Power BI. The dashboard provides an interactive overview of customer retention, churn reasons, customer charges, and customer service performance.
 
 The objective is to identify the main factors contributing to customer churn and provide insights that can help improve customer retention and support business decision-making.
+---------------
 
+<img width="713" height="331" alt="Screenshot 2026-10-20 185428" src="https://github.com/user-attachments/assets/22bab8bd-172d-46a8-b36f-9480f3cc00ea" />
+
+
+----------------
 ## 🎯 Project Objectives
 
 - Analyze the overall customer churn rate.
